@@ -1,0 +1,6 @@
+{
+  "name": "BC with Dilshan",
+  "description": "Educational tutorials and PDF notes app for Grade 12 & Grade 13 students by Dilshan Sir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
